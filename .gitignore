@@ -1,0 +1,6 @@
+.DS_Store
+terraform*
+.terraform*
+kubeconfig_*
+.tfstate
+.vscode
