@@ -27,3 +27,7 @@ This terraform will install
      Note: applying Terraform should take 5 - 10 mins
 
 -   terraform destroy (to remove)
+
+
+## Credits 
+- Special thanks for John Giancola as the original creator 
